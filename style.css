@@ -105,9 +105,8 @@ footer.page-footer
 {
   font-family: 'Righteous', cursive;
   border-style: solid;
-  border-color: white;
+  border-color: black;
     border-width: 5px;
-    background-color: gray;
     font-size: 30px;}
 
 #serena
