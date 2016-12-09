@@ -26,7 +26,7 @@ $(document).ready(function(){
 
   $('h1').css(
     {
-      paddingTop: ($('header').height() * .80) + 'px',
+      paddingTop: ($('header').height() * .60) + 'px',
     }
   );
 });
